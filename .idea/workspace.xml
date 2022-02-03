@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5fdb27e-f643-4f76-ad15-b43ac4151fa1" name="Changes" comment="" />
+    <list default="true" id="f5fdb27e-f643-4f76-ad15-b43ac4151fa1" name="Changes" comment="Se crea la documentación del codigo.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/person/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/person/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/person/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/person/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/store/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/store/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/store/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/store/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/store/Store.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +43,21 @@
       <option name="presentableId" value="Default" />
       <updated>1643897610658</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se crea las clases iniciales: BankAccount, Fruit y Person.">
+      <created>1643899782284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643899782284</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se crea las clases propuestas: Customer, Seller y Store.">
+      <created>1643899970868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643899970868</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,5 +70,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se crea las clases iniciales: BankAccount, Fruit y Person." />
+    <MESSAGE value="Se crea las clases propuestas: Customer, Seller y Store." />
+    <MESSAGE value="Se crea la documentación del codigo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea la documentación del codigo." />
   </component>
 </project>
